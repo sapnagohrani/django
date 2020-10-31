@@ -1,0 +1,23 @@
+
+C
+djangoapp/manage.py,2\4\24457e725dff0638b8a38b29a644b4e3c667780c
+J
+djangoapp/student/admin.py,0\b\0bbf742ca200a1ab6b6c4b1169801a22c19e8b1f
+I
+djangoapp/student/apps.py,d\d\dd0a4540694d489e890707e628feae565296ac6e
+O
+djangoapp/djangoapp/settings.py,f\c\fca10a808a2df50c97fcf51071d5c05bc9369558
+^
+.djangoapp/student/templates/student/index.html,a\6\a66dab31bedd1734c1533606c1d71c5a9746150e
+K
+djangoapp/student/models.py,7\2\72c97452e1f3d5b49088d0127f1fcde702f3e0b4
+K
+djangoapp/djangoapp/urls.py,f\a\fac827b9f80c3d441fce28a0018e8b6b14edece2
+I
+djangoapp/student/urls.py,c\c\ccca487bad807cc14ecbd055e6c37752b7d877b2
+J
+djangoapp/student/views.py,6\4\643291fc49ed65093fa7f51b118c3e95f08477e9
+]
+-djangoapp/student/templates/student/info.html,8\9\890b726ee70b4bb86862c1853ec0849fac21e306
+`
+0djangoapp/student/templates/student/details.html,7\f\7f8ee96cb02bc0db9330078d45747542f4206190

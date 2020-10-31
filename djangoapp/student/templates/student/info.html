@@ -1,0 +1,9 @@
+{% if student and sports %}
+    <h3>Student Name : {{ student.name }}</h3>
+    <h4>Student Rank : {{ student.rank }}</h4>
+    {% for sport in sports %}
+        <li>Sport : {{ sport.sport }}</li>
+    {% endfor %}
+{% else %}
+<p>There are no students.</p>
+{% endif %}

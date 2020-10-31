@@ -1,0 +1,11 @@
+{% if students %}
+    <ul>
+    {% for student in students %}
+        <li><a href="{% url 'info' student.id %}">{{ student.name }}</a></li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>There are no students.</p>
+{% endif %}
+
+<!--href="/student/{{ student.id }}-->
